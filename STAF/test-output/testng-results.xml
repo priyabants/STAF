@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8854" started-at="2018-06-30T20:35:09Z" finished-at="2018-06-30T20:35:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8854" started-at="2018-06-30T20:35:09Z" finished-at="2018-06-30T20:35:18Z">
+      <class name="com.STAF.TestScripts.User_Test">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.STAF.TestScripts.User_Test@5aa9e4eb]" name="initialize" is-config="true" duration-ms="4632" started-at="2018-07-01T02:05:09Z" finished-at="2018-07-01T02:05:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="createUserTest()[pri:0, instance:com.STAF.TestScripts.User_Test@5aa9e4eb]" name="createUserTest" duration-ms="4203" started-at="2018-07-01T02:05:13Z" finished-at="2018-07-01T02:05:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserTest -->
+      </class> <!-- com.STAF.TestScripts.User_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
